@@ -27,7 +27,7 @@ My passion for sustainable agriculture extends beyond the bench as well. I am cu
 
 I am an award winning researcher and student. I received the Elmer Hadley Award for my undergraduate research thesis and the B.J. Hoddinott Scholarship for my academic achievements. I received the Student Leader Scholarship from Penn State for my work as President of the Science Policy Society and a nomination for Outstanding Officer of the Year. More recently, I won the FFAR Fellows Professional Development Scholarship and FFAR’s annual lighting talk competition (2021). In addition to these I have won multiple travel grants to attend research conferences and meetings.
 
-In my past life, I was a recording engineer for the Chicago Recording Company and an avid musician. A failed job opportunity stemming from this career led me to study biology in college and the rest is history!
+In my past life, I was a recording engineer for the Chicago Recording Company and an avid musician. A missed job opportunity stemming from this career led me to study biology in college and the rest is history!
   
 I am a loving father and husband. These two are the reason I strive for better in all I do.
   
