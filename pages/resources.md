@@ -5,9 +5,11 @@ permalink: /resources
 ---
 
 ![pexels-tom-fisk-1573885](https://user-images.githubusercontent.com/46527606/178757734-e92763ef-5695-4778-ad13-8ffb07f991fe.jpg)
-
+  
 I am interested in the genetic relationships between plant hosts and their associated microbiomes across different environments. 
-=======
+======= 
+
+</div>  
 
 I explore topics related to:
 
@@ -17,6 +19,7 @@ I explore topics related to:
 * Microbial functional redundancy across environments
 * Host evolutionary responses to microbes (and vice versa)
 
+</div>  
 
 Recent Publications
 ------------------
