@@ -9,7 +9,7 @@ permalink: /about
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 .responsive {
-  width: 100%;
+  width: 80%;
   height: auto;
 }
 </style>
