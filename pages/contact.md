@@ -4,9 +4,7 @@ title: Contact
 permalink: /contact
 ---
 
-Contact Me:\
-
-jus1990@psu.edu\
+[jus1990@psu.edu](mailto:jus1990@psu.edu)\
 
 618-751-9132\
 
