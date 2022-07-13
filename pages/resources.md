@@ -9,17 +9,13 @@ permalink: /resources
 I am interested in the genetic relationships between plant hosts and their associated microbiomes across different environments.
 =====
 
-</div>  
-
 I explore topics related to:
 
 * The nexus of host-microbe-environment interactions
 * Host genetic influence on microbiome composition
 * Conservation in microbial niche space 
 * Microbial functional redundancy across environments
-* Host evolutionary responses to microbes (and vice versa)
-
-</div>  
+* Host evolutionary responses to microbes (and vice versa)  
 
 Recent Publications
 ------------------
