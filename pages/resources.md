@@ -16,7 +16,7 @@ permalink: /resources
 </body>
 </html>
 
-I am interested in the genetic relationships between plant hosts and their associated microbiomes across different environments.
+I am interested in how the genetic relationships between plant hosts and their associated microbiomes change across different environments.
 =====
 
 I explore topics related to:
