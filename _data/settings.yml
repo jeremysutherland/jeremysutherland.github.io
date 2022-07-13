@@ -9,7 +9,7 @@ disqus:
 menu:
 - {name: 'About',              url: 'about'}
 #- {name: 'Interesting Facts',  url: 'facts'}
-- {name: 'Research',           url: 'resources'}
+- {name: 'Research',           url: 'research'}
 #- {name: 'Blog',               url: 'sample-posts'}
 - {name: 'CV',                 url: 'documentation'}
 - {name: 'Contact',            url: 'contact'}
