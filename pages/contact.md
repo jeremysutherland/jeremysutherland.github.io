@@ -4,12 +4,15 @@ title: Contact
 permalink: /contact
 ---
 
-Email:  \
+Email
+-----
 [jus1990@psu.edu](mailto:jus1990@psu.edu)
 
-Phone:  \
+Phone
+-----
 +1-618-751-9132
 
-Address:  \
-405d Life Sciences Building \
+Address
+-----
+405D Life Sciences Building \
 Pennsylvania State University 16802 
