@@ -12,5 +12,4 @@ Phone:  \
 
 Address:  \
 405d Life Sciences Building \
-Pennsylvania State University 16802 \
-
+Pennsylvania State University 16802 
