@@ -4,4 +4,4 @@ title: CV
 permalink: /documentation
 ---
 
-[Jeremy-Sutherland-CV-Post-Doc.pdf](https://github.com/jeremysutherland/jeremysutherland.github.io/files/9098465/Jeremy-Sutherland-CV-Post-Doc.pdf)
+[Jeremy-Sutherland-CV.pdf](https://github.com/jeremysutherland/jeremysutherland.github.io/files/9098471/Jeremy-Sutherland-CV.pdf)
