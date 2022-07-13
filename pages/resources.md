@@ -4,8 +4,18 @@ title: Research
 permalink: /resources
 ---
 
-![pexels-tom-fisk-1573885](https://user-images.githubusercontent.com/46527606/178757734-e92763ef-5695-4778-ad13-8ffb07f991fe.jpg)
-  
+
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+
+<img src="https://raw.githubusercontent.com/jeremysutherland/jeremysutherland.github.io/main/assets/img/fields.jpg" class="responsive">
+
+</body>
+</html>
+
 I am interested in the genetic relationships between plant hosts and their associated microbiomes across different environments.
 =====
 
