@@ -26,7 +26,7 @@ I am interested in how the genetic relationships between plant hosts and their a
 
 I explore topics related to:
 
-* The nexus of host-microbe-environment interactions
+* Host-microbe-environment interactions
 * Host genetic influence on microbiome composition
 * Conservation in microbial niche space 
 * Microbial functional redundancy across environments
