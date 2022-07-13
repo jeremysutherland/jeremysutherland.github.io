@@ -4,9 +4,16 @@ title: About
 permalink: /about
 ---
 
+<!DOCTYPE html>
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.responsive {
+  width: 100%;
+  height: auto;
+}
+</style>
 </head>
 <body>
 
