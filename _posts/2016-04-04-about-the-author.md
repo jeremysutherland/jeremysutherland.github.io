@@ -4,7 +4,7 @@ title: "About me"
 author: "Jeremy Sutherland"
 categories: facts
 tags: [sample]
-image: cuba-2.jpg
+image: pexels-plants-1.jpg
 ---
 
 Hi there! I'm Jeremy. I’m a sound engineer turned biologist.
