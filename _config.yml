@@ -11,7 +11,7 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "Jeremy Sutherland"
-description:	       "I'm a PhD. Candidate in the Bioinformatics and Genomics Program at Penn State"
+description:	       "PhD. Candidate in the Bioinformatics and Genomics Program at Penn State"
 author:              "Jeremy Sutherland"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
