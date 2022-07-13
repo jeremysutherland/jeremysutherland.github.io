@@ -20,7 +20,7 @@ I explore topics related to:
 Recent Publications
 ------------------
 
-[Molecular Ecology - 2022 - Sutherland - Host genomic influence on bacterial composition in the switchgrass rhizosphere.pdf](https://github.com/jeremysutherland/jeremysutherland.github.io/files/9098613/Molecular.Ecology.-.2022.-.Sutherland.-.Host.genomic.influence.on.bacterial.composition.in.the.switchgrass.rhizosphere.pdf)
+[ Sutherland, J., Bell, T., Trexler, R. V., Carlson, J. E., & Lasky, J. R. (2022). Host genomic influence on bacterial composition in the switchgrass rhizosphere. Molecular Ecology, 31, 3934– 3950. https://doi.org/10.1111/mec.16549](https://github.com/jeremysutherland/jeremysutherland.github.io/files/9098613/Molecular.Ecology.-.2022.-.Sutherland.-.Host.genomic.influence.on.bacterial.composition.in.the.switchgrass.rhizosphere.pdf)
 
 All Publications
 ------------------
