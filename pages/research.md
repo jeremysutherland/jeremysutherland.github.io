@@ -21,16 +21,27 @@ permalink: /research
 </body>
 </html>
 
-I am interested in how the genetic relationships between plant hosts and their associated microbiomes change across different environments.
-=====
+I am interested in the genetic relationships between hosts and their associated microbiomes across different environments.
+----------------------------------------------------------
 
-I explore topics related to:
+I investigate topics related to:
 
 * Host-microbe-environment interactions
 * Host genetic influence on microbiome composition
 * Conservation in microbial niche space 
 * Microbial functional redundancy across environments
-* Host evolutionary responses to microbes (and vice versa)  
+* Host evolutionary responses to microbes (and vice versa) 
+
+Skills & Experience
+------------------
+* PhD in bioinformatics (Expected Graduation: Early 2023)
+* Proficient programming skills (e.g., Python, R, UNIX/bash)
+* Demonstrated experience in modeling and analysis of genomic and microbial sequence data
+* Excellent knowledge of biological/statistical data analysis methods
+* Familiarity with Linux/Unix command line and high-performance computing environments
+* Excellent communication, teamwork and organizational skills
+* Background in population/comparative genomics and microbial ecology
+
 
 Recent Publications
 ------------------
