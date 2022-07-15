@@ -56,7 +56,7 @@ Software
 * Microbiome sequence analysis: dada2, mothur, Qiime
 * Modeling: base-r, sommer, sJSDM, Scikit-Learn, keras, scipy, pytorch, tensorflow
 * Phylogenetics: ape, phytools, phylogram, decipher, 
-* Raw data processing: base-r, pandas, numpy, cutadapt, FastQC, dplyr, tidyr,
+* Raw data processing: base-r, pandas, numpy, cutadapt, FastQC, dplyr, tidyr
 * Sequence alignment: BLAST, clustalx, muscle
 * Statistics, base-r, vegan
 * Visualizations: Matplotlib, ggplot, seaborn
