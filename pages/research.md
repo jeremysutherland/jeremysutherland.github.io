@@ -47,6 +47,21 @@ Skills & Experience
 
 ________________________________
 
+Software
+------
+* Package Environments: Rstudio, conda, pip, jupyter-notebooks
+* Genome analysis/variant calling: vcftools, bcftools, IGV
+* Genome-wide association studies (GWAS): sommer, rrBLUP, statgenGWAS
+* Microbiome compositon analysis: phyloseq, microbiome
+* Microbiome sequence analysis: dada2, mothur, Qiime
+* Modeling: base-r, sommer, sJSDM, Scikit-Learn, keras, scipy, pytorch, tensorflow
+* Phylogenetics: ape, phytools, phylogram, decipher, 
+* Raw data processing: base-r, pandas, numpy, cutadapt, FastQC, dplyr, tidyr,
+* Sequence alignment: BLAST, clustalx, muscle
+* Statistics, base-r, vegan
+* Visualizations: Matplotlib, ggplot, seaborn
+
+__________________________________
 
 Recent Publications
 ------------------
