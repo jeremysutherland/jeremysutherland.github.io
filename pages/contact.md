@@ -14,5 +14,5 @@ Phone
 
 Address
 -----
-405D Life Sciences Building \
-Pennsylvania State University 16802 
+405D Huck Life Sciences Bldg.
+University Park, PA 16802 
