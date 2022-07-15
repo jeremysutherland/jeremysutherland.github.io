@@ -30,7 +30,10 @@ I investigate topics related to:
 * Host genetic influence on microbiome composition
 * Conservation in microbial niche space 
 * Microbial functional redundancy across environments
-* Host evolutionary responses to microbes (and vice versa) 
+* Host evolutionary responses to microbes (and vice versa)
+
+________________________________
+
 
 Skills & Experience
 ------------------
@@ -41,6 +44,8 @@ Skills & Experience
 * Familiarity with Linux/Unix command line and high-performance computing environments
 * Excellent communication, teamwork and organizational skills
 * Background in population/comparative genomics and microbial ecology
+
+________________________________
 
 
 Recent Publications
