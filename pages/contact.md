@@ -12,7 +12,4 @@ Phone
 -----
 +1-618-751-9132
 
-Address
------
-405D Huck Life Sciences Bldg.
-University Park, PA 16802 
+
