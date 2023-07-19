@@ -37,8 +37,8 @@ ________________________________
 
 Skills & Experience
 ------------------
-* PhD in bioinformatics (Expected Graduation: Early 2023)
-* Proficient programming skills (e.g., Python, R, UNIX/bash)
+* PhD in bioinformatics and Genomics from Penn State University
+* Proficient programming skills in Python, R, and UNIX/bash environments
 * Demonstrated experience in modeling and analysis of genomic and microbial sequence data
 * Excellent knowledge of biological/statistical data analysis methods
 * Familiarity with Linux/Unix command line and high-performance computing environments
@@ -53,7 +53,7 @@ Software
 * Genome analysis/variant calling: vcftools, bcftools, IGV
 * Genome-wide association studies (GWAS): sommer, rrBLUP, statgenGWAS
 * Microbiome compositon analysis: phyloseq, microbiome
-* Microbiome sequence analysis: dada2, mothur, Qiime
+* Microbiome sequence analysis: dada2, mothur, Qiime2
 * Modeling: base-r, sommer, sJSDM, Scikit-Learn, keras, scipy, pytorch, tensorflow
 * Phylogenetics: ape, phytools, phylogram, decipher, 
 * Raw data processing: base-r, pandas, numpy, cutadapt, FastQC, dplyr, tidyr
