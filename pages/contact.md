@@ -7,6 +7,7 @@ permalink: /contact
 Email
 -----
 [jus1990@psu.edu](mailto:jus1990@psu.edu)
+
 [jeremysutherland@live.com](mailto:jeremysutherland@live.com)
 
 
