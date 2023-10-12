@@ -3,7 +3,6 @@ layout: page
 title: CV
 permalink: /documentation
 ---
-Resume
 [Download (PDF)](https://github.com/jeremysutherland/jeremysutherland.github.io/files/12883335/jeremy-sutherland-resume.pdf)
 
 
