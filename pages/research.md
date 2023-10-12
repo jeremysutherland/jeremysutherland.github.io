@@ -37,12 +37,12 @@ ________________________________
 
 Skills & Experience
 ------------------
-* PhD in bioinformatics and Genomics from Penn State University
+* Ph.D. in Bioinformatics and Genomics from Penn State University
 * Proficient programming skills in Python, R, and UNIX/bash environments
 * Demonstrated experience in modeling and analysis of genomic and microbial sequence data
 * Excellent knowledge of biological/statistical data analysis methods
 * Familiarity with Linux/Unix command line and high-performance computing environments
-* Excellent communication, teamwork and organizational skills
+* Excellent communication, teamwork, and organizational skills
 * Background in population/comparative genomics and microbial ecology
 
 ________________________________
